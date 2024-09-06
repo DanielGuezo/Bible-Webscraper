@@ -1,7 +1,3 @@
-
-
-'''Searches Bible Gateway for relevant verses'''
-
 import bs4, requests, sys
 
 def main(args):
